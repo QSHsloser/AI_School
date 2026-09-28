@@ -5,3 +5,4 @@ templates为vue3前端框架文件目录
 数据库初始化：
 先创建名为education数据库，然后直接导入education.sql
 source education.sql;
+![Uploading image.png…]()
